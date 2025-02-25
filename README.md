@@ -40,4 +40,5 @@
 
 ## **Пример работы программы:**
 
-![image](https://github.com/user-attachments/assets/aadd1110-1d5d-4910-8882-e538d8727e5e)
+![image](https://github.com/user-attachments/assets/4bbe66df-43a6-4ad0-bdf0-2426589ec765)
+
